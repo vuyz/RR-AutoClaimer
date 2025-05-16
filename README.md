@@ -1,4 +1,4 @@
-# RR-AutoClaimer
+# Apheriia
 
   A tool coded in python to claim a username using the RecNet API
 
